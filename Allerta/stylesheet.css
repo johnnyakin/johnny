@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Allerta Stencil';
+    src: url('AllertaStencil-Regular.eot');
+    src: local('Allerta Stencil Regular'), local('AllertaStencil-Regular'),
+        url('AllertaStencil-Regular.eot?#iefix') format('embedded-opentype'),
+        url('AllertaStencil-Regular.woff2') format('woff2'),
+        url('AllertaStencil-Regular.woff') format('woff'),
+        url('AllertaStencil-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+

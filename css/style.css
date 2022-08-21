@@ -1,0 +1,9 @@
+@import url("Allerta/stylesheet.css");
+
+* {
+    font-family: allerta stencil;
+}
+
+.profile {
+    width: 70px;
+}
